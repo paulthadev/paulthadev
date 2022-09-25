@@ -47,8 +47,7 @@
 <!-- [![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&layout=compact&theme=tokyonight&langs_count=5)][top_language] -->
 
 <!--  Profile Trophy -->
-![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=tokyonight&row=1)
-
+[![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=GodWin1100&theme=onedark&row=1)][profile_trophy]
 <!-- Streak Stats -->
 [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]
 
