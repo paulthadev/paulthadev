@@ -92,10 +92,11 @@
 
 <!-- GitHub Stats -->
 
-[activity_graph]: https://github.com/fadayopaul/github-readme-activity-graph
-[stats_card]: https://github.com/fadayopaul/github-readme-stats
-[streak_stats]: https://github.com/fadayopaul/github-readme-streak-stats
-[top_language]: https://github.com/fadayopaul/github-readme-stats
+[activity_graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
+[profile_trophy]: https://github.com/ryo-ma/github-profile-trophy
+[stats_card]: https://github.com/anuraghazra/github-readme-stats
+[streak_stats]: https://github.com/DenverCoder1/github-readme-streak-stats
+[top_language]: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Reach -->
 
