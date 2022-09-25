@@ -3,10 +3,11 @@
 ## :tipping_hand_man: About Me
 
 - An Enthusiast `Frontend Engineer`
-- Pro `Digital/ Graphics Designer`
+- Pro `Digital & Graphics Designer`
+- Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Nurturing `Art`, `Tech` & `Photography`
 - Conditional Leadership & proficient in leading & managing teams.
-- A B.Tech Software Engineer.
+- An B.Tech Software Engineer.
 - Currently studying the [Complete JavaScript Course 2022: From Zero to Expert! Course, Jul-22](https://www.udemy.com/course/the-complete-javascript-course) by Jonas Schmedtmann.
 
 **_Open for `Frontend development Oriented` Job & Internship._**
@@ -40,22 +41,18 @@
 ## :memo: GitHub Stats
 
 <!--  Stats Card -->
-
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=merko&count_private=true&hide=stars)][stats_card]
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card]
 
 <!-- Top Language  -->
-[![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&layout=compact&theme=tokyonight&langs_count=5)][top_language]
+<!-- [![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&layout=compact&theme=tokyonight&langs_count=5)][top_language] -->
 
 <!--  Profile Trophy -->
-
-<!-- [![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=onedark&row=1)][profile_trophy] -->
+![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=tokyonight&row=1)
 
 <!-- Streak Stats -->
-
 [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]
 
 <!-- Activity Graph -->
-
  [![GitHub Stats | Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadayopaul&theme=react-dark)][activity_graph]
 
 ## :round_pushpin: Reach
@@ -65,7 +62,7 @@
 [![fadayopaul | G Mail](https://img.shields.io/badge/fadayopaul-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
 
 <!-- LINKS -->
-### Language
+<!--  Language -->
 
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [graphql]: https://graphql.org/
@@ -77,13 +74,13 @@
 [sass]: https://sass-lang.com/
 
 
-### Framework & Library
+<!-- Framework & Library -->
 
 [express]: https://expressjs.com/
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
 
-### Tools
+<!-- Tools -->
 
 [git]: https://git-scm.com/
 [github]: https://github.com/
