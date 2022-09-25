@@ -16,11 +16,11 @@
 
 #### Language
 
-[![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
-[![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=ffffff&labelColor=000000)][markdown]
 [![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)][html5]
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6)][css3]
+[![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
+[![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=ffffff&labelColor=000000)][markdown]
 
 #### Framework & Library
 
