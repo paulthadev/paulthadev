@@ -39,22 +39,22 @@
 
 ## :memo: GitHub Stats
 
-### Stats Card
+<!--  Stats Card -->
 
 [![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=merko&count_private=true&hide=stars)][stats_card]
 
-### Top Language 
+<!-- Top Language  -->
 [![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&layout=compact&theme=tokyonight&langs_count=5)][top_language]
 
-### Profile Trophy
+<!--  Profile Trophy -->
 
-[![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=onedark&row=1)][profile_trophy]
+<!-- [![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=onedark&row=1)][profile_trophy] -->
 
-### Streak Stats
+<!-- Streak Stats -->
 
 [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]
 
-### Activity Graph
+<!-- Activity Graph -->
 
  [![GitHub Stats | Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadayopaul&theme=react-dark)][activity_graph]
 
@@ -93,14 +93,14 @@
 [npm]: https://www.npmjs.com/
 [visual_studio_code]: https://code.visualstudio.com/
 
-### GitHub Stats
+<!-- GitHub Stats -->
 
 [activity_graph]: https://github.com/fadayopaul/github-readme-activity-graph
 [stats_card]: https://github.com/fadayopaul/github-readme-stats
 [streak_stats]: https://github.com/fadayopaul/github-readme-streak-stats
 [top_language]: https://github.com/fadayopaul/github-readme-stats
 
-### Reach
+<!-- Reach -->
 
 [reach_github]: https://github.com/fadayopaul
 [reach_gmail]: mailto:paulfadayo@gmail.com?subject=GitHub%20Hello
