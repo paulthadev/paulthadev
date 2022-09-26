@@ -5,9 +5,8 @@
 - An Enthusiast `Frontend Engineer`
 - Pro `Digital & Graphics Designer`
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
-- Nurturing `Art`, `Tech` & `Photography`
 - Conditional Leadership & proficient in leading & managing teams.
-- An B.Tech Software Engineer.
+- B.Tech in Software Engineer.
 - Currently studying the [Complete JavaScript Course 2022: From Zero to Expert! Course, Jul-22](https://www.udemy.com/course/the-complete-javascript-course) by Jonas Schmedtmann.
 
 **_Open for `Frontend development Oriented` Job & Internship._**
