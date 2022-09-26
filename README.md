@@ -39,9 +39,6 @@
 <!--  Stats Card -->
 [![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp; <!-- Streak Stats --> [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats] 
 
-<!-- Top Language  --> 
-[![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&layout=compact&theme=tokyonight&langs_count=5)][top_language]
-
 ## :round_pushpin: Reach
 
 [![Paul Fadayo | LinkedIn](https://img.shields.io/badge/Paul_Fadayo-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
@@ -81,7 +78,6 @@
 
 [stats_card]: https://github.com/anuraghazra/github-readme-stats
 [streak_stats]: https://github.com/DenverCoder1/github-readme-streak-stats
-[top_language]: https://github.com/anuraghazra/github-readme-stats
 
 <!-- Reach -->
 
