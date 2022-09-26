@@ -14,16 +14,13 @@
 
 ## :computer: Tech Stack
 
-#### Language
+#### Language, Framework & Library
 
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
 [![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)][html5]
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6)][css3]
 [![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
 [![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=ffffff&labelColor=000000)][markdown]
-
-#### Framework & Library
-
 [![Framework & Library | React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)][react]
 [![Framework & Library | Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)][redux]
 [![Framework & Library | Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=000000&labelColor=fefefe)][express]
@@ -41,18 +38,10 @@
 ## :memo: GitHub Stats
 
 <!--  Stats Card -->
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card]
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp; <!-- Streak Stats --> [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats] 
 
-<!-- Top Language  -->
+<!-- Top Language  --> 
 [![GitHub Stats | Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&layout=compact&theme=tokyonight&langs_count=5)][top_language]
-
-<!--  Profile Trophy -->
-[![GitHub Stats | Profile Trophy](https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=onedark&row=1)][profile_trophy]
-<!-- Streak Stats -->
-[![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]
-
-<!-- Activity Graph -->
-<!--  [![GitHub Stats | Activity Graph](https://activity-graph.herokuapp.com/graph?username=fadayopaul&theme=react-dark)][activity_graph] -->
 
 ## :round_pushpin: Reach
 
@@ -91,8 +80,6 @@
 
 <!-- GitHub Stats -->
 
-[activity_graph]: https://github.com/Ashutosh00710/github-readme-activity-graph
-[profile_trophy]: https://github.com/ryo-ma/github-profile-trophy
 [stats_card]: https://github.com/anuraghazra/github-readme-stats
 [streak_stats]: https://github.com/DenverCoder1/github-readme-streak-stats
 [top_language]: https://github.com/anuraghazra/github-readme-stats
