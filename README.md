@@ -2,7 +2,7 @@
 
 ## :tipping_hand_man: About Me
 
-- An Enthusiast `Frontend Engineer`
+- A `Frontend Engineer`
 - Pro `Digital & Graphics Designer`
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Conditional Leadership & proficient in leading & managing teams.
