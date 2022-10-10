@@ -7,7 +7,6 @@
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Conditional Leadership & proficient in leading & managing teams.
 - B.Tech in Software Engineer.
-- Currently studying the [Complete JavaScript Course 2022: From Zero to Expert! Course, Jul-22](https://www.udemy.com/course/the-complete-javascript-course) by Jonas Schmedtmann.
 
 **_Open for `Frontend development Oriented` Job & Internship._**
 
