@@ -36,7 +36,7 @@
 ## :memo: GitHub Stats
 
 <!--  Stats Card -->
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp; <!-- Streak Stats --> [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats] 
+<!-- [![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp; <!-- Streak Stats --> [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]  -->
 
 ## :round_pushpin: Reach
 
