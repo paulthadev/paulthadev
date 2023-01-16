@@ -18,10 +18,8 @@
 [![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)][html5]
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6)][css3]
 [![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
-[![Language | Markdown](https://img.shields.io/badge/Markdown-eeeeee?style=for-the-badge&logo=markdown&logoColor=ffffff&labelColor=000000)][markdown]
 [![Framework & Library | React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)][react]
 [![Framework & Library | Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)][redux]
-[![Framework & Library | Express](https://img.shields.io/badge/Express-eeeeee?style=for-the-badge&logo=express&logoColor=000000&labelColor=fefefe)][express]
 
 #### Tools
 
@@ -30,7 +28,6 @@
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
-[![Tools | MS Excel](https://img.shields.io/badge/Microsoft_Excel-eeeeee?style=for-the-badge&logo=microsoft-excel&logoColor=217346&labelColor=fefefe)][microsoft_excel]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
 
 ## :memo: GitHub Stats
@@ -54,15 +51,12 @@
 [graphql]: https://graphql.org/
 [html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[markdown]: https://www.markdownguide.org/
-[nodejs]: https://nodejs.org/en/
 [python]: https://www.python.org/
 [sass]: https://sass-lang.com/
 
 
 <!-- Framework & Library -->
 
-[express]: https://expressjs.com/
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
 
@@ -71,7 +65,6 @@
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [heroku]: https://www.heroku.com/
-[microsoft_excel]: https://www.microsoft.com/en-in/microsoft-365/excel
 [microsoft_office]: https://www.microsoft.com/en-in/microsoft-365/microsoft-office
 [npm]: https://www.npmjs.com/
 [visual_studio_code]: https://code.visualstudio.com/
