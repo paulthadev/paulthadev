@@ -2,11 +2,11 @@
 
 ## :tipping_hand_man: About Me
 
-- A `Frontend Engineer`
+- A `Frontend Software Engineer`
 - Pro `Digital & Graphics Designer`
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Conditional Leadership & proficient in leading & managing teams.
-- B.Tech in Software Engineer.
+- B.Tech in Software Engineering.
 
 ## :computer: Tech Stack
 
