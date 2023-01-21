@@ -8,8 +8,6 @@
 - Conditional Leadership & proficient in leading & managing teams.
 - B.Tech in Software Engineer.
 
-**_Open for `Frontend development Oriented` Job & Internship._**
-
 ## :computer: Tech Stack
 
 #### Language, Framework & Library
