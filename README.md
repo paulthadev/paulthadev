@@ -2,7 +2,7 @@
 
 ## :tipping_hand_man: About Me
 
-- A `Frontend Software Engineer`
+- A `Frontend Software Developer`
 - Pro `Digital & Graphics Designer`
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Conditional Leadership & proficient in leading & managing teams.
@@ -31,7 +31,7 @@
 ## :memo: GitHub Stats
 
 <!--  Stats Card -->
-<!-- [![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card]--> 
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card]
 
 <!-- Streak Stats -->
 [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]  
@@ -69,7 +69,7 @@
 
 <!-- GitHub Stats -->
 
-<!-- [stats_card]: https://github.com/anuraghazra/github-readme-stats -->
+[stats_card]: https://github.com/anuraghazra/github-readme-stats
 [streak_stats]: https://github.com/DenverCoder1/github-readme-streak-stats
 
 <!-- Reach -->
