@@ -2,7 +2,7 @@
 
 ## :tipping_hand_man: About Me
 
-- A `Frontend Software Developer`
+- A `Frontend Developer Software Engineer `
 - Pro `Digital & Graphics Designer`
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Conditional Leadership & proficient in leading & managing teams.
