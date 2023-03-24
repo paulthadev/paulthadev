@@ -34,10 +34,10 @@
 #### Tools
 
 [![Tools | Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-eeeeee?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2C2C32)][visual_studio_code]
+[![Tools | npm](https://img.shields.io/badge/npm-CC3534?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
 [![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
-[![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
-[![Tools | Netlify](https://img.shields.io/badge/Netlify-eeeeee?style=for-the-badge&logo=netlify&logoColor=430098&labelColor=ffffff)][netlify]
+[![Tools | Netlify](https://img.shields.io/badge/Netlify-181717?style=for-the-badge&logo=netlify&logoColor=20C6B7&labelColor=ffffff)][netlify]
 
 
 <!--
