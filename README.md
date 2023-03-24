@@ -1,23 +1,35 @@
 # :man_student: Paul Fadayo
 
 ## :tipping_hand_man: About Me
-
+- ![](https://komarev.com/ghpvc/?username=fadayoapul&style=flat-square)
 - A `Frontend Developer Software Engineer `
 - Pro `Digital & Graphics Designer`
 - Proficient in translating `designs` and `wireframes` into `high-quality code`
 - Conditional Leadership & proficient in leading & managing teams.
 - B.Tech in Software Engineering.
 
+<!-- Reach -->
+- [![Paul Fadayo | LinkedIn](https://img.shields.io/badge/Paul_Fadayo-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
+[![fadayopaul | G Mail](https://img.shields.io/badge/fadayopaul-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
+[![fadayopaul | Twitter](https://img.shields.io/badge/fadayopaul-eeeeee?style=for-the-badge&logo=twitter&logoColor=ffffff&labelColor=00acee)][reach_twitter]
+
+
 ## :computer: Tech Stack
 
-#### Language, Framework & Library
+#### Language
 
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
+[![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
 [![Language | HTML5](https://img.shields.io/badge/html5-eeeeee?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=E34F26)][html5]
 [![Language | CSS3](https://img.shields.io/badge/CSS3-eeeeee?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=1572B6)][css3]
-[![Language | Python](https://img.shields.io/badge/Python-eeeeee?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)][python]
+
+
+#### Framework & Library
 [![Framework & Library | React](https://img.shields.io/badge/React-eeeeee?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)][react]
 [![Framework & Library | Redux](https://img.shields.io/badge/Redux-eeeeee?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=20232A)][redux]
+[![Framework & Library | sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)][sass]
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)][eslint]
+[![Graphql](https://img.shields.io/badge/Graphql-000000?style=for-the-badge&logo=graphql&logoColor=ff69b4&labelColor=ffffff)][graphql]
 
 #### Tools
 
@@ -25,8 +37,13 @@
 [![Tools | Git](https://img.shields.io/badge/Git-eeeeee?style=for-the-badge&logo=git&logoColor=F05032&labelColor=f0efe7)][git]
 [![Tools | GitHub](https://img.shields.io/badge/Github-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][github]
 [![Tools | npm](https://img.shields.io/badge/npm-eeeeee?style=for-the-badge&logo=npm&logoColor=CB3837&labelColor=fefefe)][npm]
+[![Tools | Netlify](https://img.shields.io/badge/Netlify-eeeeee?style=for-the-badge&logo=netlify&logoColor=430098&labelColor=ffffff)][netlify]
+
+
+<!--
 [![Tools | Heroku](https://img.shields.io/badge/Heroku-eeeeee?style=for-the-badge&logo=heroku&logoColor=ffffff&labelColor=430098)][heroku]
 [![Tools | MS Office](https://img.shields.io/badge/Microsoft_Office-eeeeee?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=fefefe)][microsoft_office]
+-->
 
 ## :memo: GitHub Stats
 
@@ -36,33 +53,31 @@
 <!-- Streak Stats -->
 [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]  
 
-## :round_pushpin: Reach
-
-[![Paul Fadayo | LinkedIn](https://img.shields.io/badge/Paul_Fadayo-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
-[![fadayopaul | GitHub](https://img.shields.io/badge/fadayopaul-eeeeee?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=181717)][reach_github]
-[![fadayopaul | G Mail](https://img.shields.io/badge/fadayopaul-eeeeee?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=EA4335)][reach_gmail]
 
 <!-- LINKS -->
 <!--  Language -->
 
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[graphql]: https://graphql.org/
 [html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [python]: https://www.python.org/
-[sass]: https://sass-lang.com/
+
 
 
 <!-- Framework & Library -->
 
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
+[sass]: https://sass-lang.com/ 
+[eslint]: https://eslint.org/
+[graphql]: https://graphql.org/
 
 <!-- Tools -->
 
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [heroku]: https://www.heroku.com/
+[netlify]: https://www.netlify.com/
 [microsoft_office]: https://www.microsoft.com/en-in/microsoft-365/microsoft-office
 [npm]: https://www.npmjs.com/
 [visual_studio_code]: https://code.visualstudio.com/
@@ -74,7 +89,7 @@
 
 <!-- Reach -->
 
-[reach_github]: https://github.com/fadayopaul
+[reach_twitter]: https://twitter.com/fadayopaul
 [reach_gmail]: mailto:paulfadayo@gmail.com?subject=GitHub%20Hello
 [reach_linkedin]: https://www.linkedin.com/in/fadayopaul
 
