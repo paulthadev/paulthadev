@@ -16,6 +16,9 @@
 
 ## :computer: Tech Stack
 
+#### Code Time
+[![wakatime](https://wakatime.com/badge/user/d7fff28d-e87e-49dc-9891-63487d096a8c.svg)](https://wakatime.com/@d7fff28d-e87e-49dc-9891-63487d096a8c)
+
 #### Language
 
 [![Language | JavaScript](https://img.shields.io/badge/Javascript-eeeeee?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)][javascript]
@@ -46,17 +49,14 @@
 -->
 
 ## :memo: GitHub Stats
-
 <!--  Stats Card -->
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card]
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp;  [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]  
 
-<!-- Streak Stats -->
-[![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]  
 
 
 <!-- LINKS -->
-<!--  Language -->
 
+<!--  Language -->
 [css3]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -65,7 +65,6 @@
 
 
 <!-- Framework & Library -->
-
 [react]: https://reactjs.org/
 [redux]: https://redux.js.org/
 [sass]: https://sass-lang.com/ 
