@@ -16,7 +16,7 @@
 
 ## :computer: Tech Stack
 
-#### Code Time in the Last 7 days
+#### Code Time
 [![wakatime](https://wakatime.com/badge/user/d7fff28d-e87e-49dc-9891-63487d096a8c.svg)](https://wakatime.com/@d7fff28d-e87e-49dc-9891-63487d096a8c)
 
 #### Language
