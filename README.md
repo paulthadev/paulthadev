@@ -2,10 +2,8 @@
 
 ## :tipping_hand_man: About Me
 - ![](https://komarev.com/ghpvc/?username=fadayoapul&style=flat-square)
-- A `Frontend Developer Software Engineer `
+- A `Frontend Software Engineer `
 - Pro `Digital & Graphics Designer`
-- Proficient in translating `designs` and `wireframes` into `high-quality code`
-- Conditional Leadership & proficient in leading & managing teams.
 - B.Tech in Software Engineering.
 
 <!-- Reach -->
