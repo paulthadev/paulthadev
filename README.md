@@ -1,10 +1,11 @@
 # :man_student: Paul Fadayo
 
 ## :tipping_hand_man: About Me
-- ![](https://komarev.com/ghpvc/?username=fadayoapul&style=flat-square)
+
 - `Frontend Software Engineer `
 - Pro `Digital & Graphics Designer`
 - B.Tech in Software Engineering.
+- ![](https://komarev.com/ghpvc/?username=fadayoapul&style=flat-square)
 
 <!-- Reach -->
 - [![Paul Fadayo | LinkedIn](https://img.shields.io/badge/Paul_Fadayo-eeeeee?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)][reach_linkedin]
