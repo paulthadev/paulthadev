@@ -3,8 +3,7 @@
 ## :tipping_hand_man: About Me
 
 - `Frontend Software Engineer `
-- Pro `Digital & Graphics Designer`
-- B.Tech in Software Engineering.
+- `Digital & Graphics Designer`
 - ![](https://komarev.com/ghpvc/?username=fadayoapul&style=flat-square)
 
 <!-- Reach -->
