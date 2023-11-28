@@ -62,14 +62,10 @@ I appreciate the significance of close collaboration with team members and stake
 
 ## :memo: GitHub Stats
 <!--  Stats Card -->
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp;
-[![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&hide_progress=true) &nbsp; [![Paul's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadayopaul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&hide_progress=true) 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadayopaul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats] -->
+ 
 <!-- LINKS -->
 
 <!--  Language -->
@@ -77,8 +73,6 @@ I appreciate the significance of close collaboration with team members and stake
 [html5]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [python]: https://www.python.org/
-
-
 
 <!-- Framework & Library -->
 [react]: https://reactjs.org/
@@ -88,7 +82,6 @@ I appreciate the significance of close collaboration with team members and stake
 [graphql]: https://graphql.org/
 
 <!-- Tools -->
-
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [heroku]: https://www.heroku.com/
@@ -98,7 +91,6 @@ I appreciate the significance of close collaboration with team members and stake
 [visual_studio_code]: https://code.visualstudio.com/
 
 <!-- GitHub Stats -->
-
 [stats_card]: https://github.com/anuraghazra/github-readme-stats
 [streak_stats]: https://github.com/DenverCoder1/github-readme-streak-stats
 
