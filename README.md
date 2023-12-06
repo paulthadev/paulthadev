@@ -4,17 +4,6 @@
 
 Greetings, I'm Paul Fadayo, a seasoned software engineer holding a degree in software engineering.\
 I boast nearly four years of hands-on experience, specializing in crafting and maintaining highly efficient software applications utilizing a diverse range of web technologies that seamlessly operate on various platforms and browsers.
-
-<br />
-I have a profound commitment to designing interfaces that are not only aesthetically pleasing but also user-friendly, catering to a wide array of individuals.
-<br />
-In terms of technical prowess, I excel in languages such as JavaScript, and possess a little knowledge of C and Python.
-Additionally, I possess extensive expertise in utilizing libraries and frameworks like ReactJS. 
-<br />
-My focus extends to key concepts like Page Optimization (both in speed and SEO), Accessibility, and Responsive Design, ensuring the creation of high-performing products with exceptional user experiences.
-<br />
-Beyond technical skills, I'm adept at liaising with stakeholders, cross-functional technical teams, and management to gather requirements, and articulate features and technical blueprints for software products.
-<br />
 <br />
 I appreciate the significance of close collaboration with team members and stakeholders in delivering top-notch software that aligns with end-user needs, ultimately driving revenue for the company. I also make it a priority to keep abreast of the latest technological trends, integrating them to enhance the efficiency and functionality of the software applications I engage with.
 <!-- - ![](https://komarev.com/ghpvc/?username=fadayopaul&style=flat-square)  -->
