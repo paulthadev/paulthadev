@@ -1,12 +1,8 @@
 # :man_student: Paul Fadayo
 
+ ![](https://komarev.com/ghpvc/?username=fadayopaul&style=flat-square) 
 <!-- ## :tipping_hand_man: About Me -->
-
-Greetings, I'm Paul Fadayo, a seasoned software engineer holding a degree in software engineering.\
-I boast nearly four years of hands-on experience, specializing in crafting and maintaining highly efficient software applications utilizing a diverse range of web technologies that seamlessly operate on various platforms and browsers.
-<br />
-I appreciate the significance of close collaboration with team members and stakeholders in delivering top-notch software that aligns with end-user needs, ultimately driving revenue for the company. I also make it a priority to keep abreast of the latest technological trends, integrating them to enhance the efficiency and functionality of the software applications I engage with.
-<!-- - ![](https://komarev.com/ghpvc/?username=fadayopaul&style=flat-square)  -->
+A seasoned software engineer.
 
 <!-- Reach -->
 <!-- 
