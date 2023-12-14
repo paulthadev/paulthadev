@@ -47,9 +47,10 @@ A seasoned software engineer.
 
 ## :memo: GitHub Stats
 <!--  Stats Card -->
-[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card] &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&hide_progress=true) 
+[![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats]
+[![GitHub Stats | Stats Card](https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=tokyonight&count_private=true&hide=stars)][stats_card]
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fadayopaul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Stats | Contribution Card](https://github-readme-streak-stats.herokuapp.com/?user=fadayopaul&theme=tokyonight)][streak_stats] -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadayopaul&hide_progress=true) 
  
 <!-- LINKS -->
 
