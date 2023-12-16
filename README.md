@@ -32,9 +32,14 @@
 
 <br>
 <!-- Github Stats  -->
-<h2 align="center">⚡ wakaTIme Stats ⚡</h2>
+<h2> 
+<h3 align="center">⚡ wakaTIme: Total time coded since Feb 24 2023 </h3>
+</h2>
+
 <div align=center>
-  <a  href="https://wakatime.com/@d7fff28d-e87e-49dc-9891-63487d096a8c"><img width=190 src="https://wakatime.com/badge/user/d7fff28d-e87e-49dc-9891-63487d096a8c.svg" alt="Total time coded since Feb 24 2023" /></a>
+   <a  href="https://wakatime.com/@d7fff28d-e87e-49dc-9891-63487d096a8c">
+   <img width=190 src="https://wakatime.com/badge/user/d7fff28d-e87e-49dc-9891-63487d096a8c.svg" alt="Total time coded since Feb 24 2023" />
+  </a>
   <br>
 <div>
   
