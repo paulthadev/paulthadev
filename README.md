@@ -6,7 +6,7 @@
  
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paul+Fadayo!;" />
  
- 🔭 A seasoned **Software Engineer**
+ 🔭 A seasoned **Software Engineer** and **Digital Designer**
  
  ⚡ Fun fact **I code so fast, my keyboard goes on coffee breaks.**
 
