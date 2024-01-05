@@ -5,7 +5,7 @@
 
 <!-- Introduction  -->
    <h1> Hi, I'm Paul</h1>
-   <p>Seasoned Frontend Software Engineer & Designer</p>
+   <p>A Seasoned Frontend Software Engineer & Designer</p>
  
    <!-- Language, Tools, Framework & Library -->
   <div align="center">
