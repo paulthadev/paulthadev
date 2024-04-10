@@ -4,10 +4,12 @@
   ![](https://komarev.com/ghpvc/?username=fadayopaul&style=flat-square)
 
 <!-- Introduction  -->
-   <h1> Hi, I'm Paul</h1>
-   <p>A Seasoned Frontend Software Engineer & Designer</p>
- 
+   <h1> Hi 👋,  I'm Paul (PaulThaCreator)</h1>
+   <h3> A Top-Notch Frontend Engineer</h3>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=onedark" alt="" /></a> </p>
+
    <!-- Language, Tools, Framework & Library -->
+  <!--  
   <div align="center">
     <hr />
     <img width="350" src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,vercel,sass" />
@@ -15,7 +17,8 @@
     <img width="350" src="https://skillicons.dev/icons?i=wordpress,javascript,typescript,firebase,c,nextjs,supabase,python,netlify"/>
     <br />
     <img width="250" src="https://skillicons.dev/icons?i=ps,illustrator,ae,pr,xd,figma" />
-  </div>
+  </div> 
+  -->
 
  <hr />
  <!--Github Stats-->
@@ -41,7 +44,8 @@
   <br />
   
   <!-- WakaTIme Stats  -->
-  <div align="center">
+<!--
+<div align="center">
     <a href="https://wakatime.com/@d7fff28d-e87e-49dc-9891-63487d096a8c">
       <img
         width="190"
@@ -50,4 +54,5 @@
       />
     </a>
   </div>
+   -->
 </div>
