@@ -28,7 +28,7 @@
    &nbsp;
     <img
       width="390"
-      src="https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=react&rank_icon=github&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=fadayopaul&show_icons=true&theme=react"
       alt="fadayopaul"/>
     <br />
     <br />
