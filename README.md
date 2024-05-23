@@ -5,7 +5,7 @@
 
 <!-- Introduction  -->
    <h1> Hi 👋,  I'm Paul (PaulThaCreator)</h1>
-   <h3> A Top-Notch Frontend Engineer</h3>
+   <h3> A Top-Notch Software Engineer</h3>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadayopaul&theme=onedark" alt="" /></a> </p>
 
    <!-- Language, Tools, Framework & Library -->
