@@ -1,7 +1,7 @@
 
 <div align="center">
  
-  ![](https://komarev.com/ghpvc/?username=Yczar&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=paulthadev&style=flat-square)
 
 <!-- Introduction  -->
    <h1> Hi 👋,  I'm Paul</h1>
