@@ -2,19 +2,8 @@
 <div align="center">
  
   ![](https://komarev.com/ghpvc/?username=paulthadev&style=flat-square)
-
-<!-- Introduction  -->
-   <h1> Hi 👋,  I'm Paul</h1>
-   <h3> A Top-Notch Software Engineer</h3>
-
-   <!-- GIthub trophy -->
-<!--  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulthadev&theme=onedark" alt="" /></a> </p>
- -->
-
-
- <hr />
+ 
  <!--Github Stats-->
-  
   <div align="center">
     <img
       width="390"
