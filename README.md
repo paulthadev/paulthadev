@@ -11,6 +11,11 @@
       alt="paulthadev"/> 
 
   </div>
-  <br />
-  
+
+  <p>
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulthadev&hide_progress=true&hide_title=true&layout=normal&theme=dark" 
+    alt="paulthadev" />
+  </p>
+
 </div>
