@@ -8,7 +8,7 @@
     <img
       width="390"
       src="https://github-readme-streak-stats.herokuapp.com/?user=paulthadev&theme=dark"
-      alt="paulthadev"/> 
+      alt="@paulthadev"/> 
 
   </div>
 
